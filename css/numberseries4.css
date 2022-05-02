@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+.maindivision {
+    margin: auto;
+    height: 200px;
+    width: 500px;
+    border: 2px solid gray;
+    margin-top: 50px;
+}
+
+#number {
+    margin-top: 50px;
+    height: 40px;
+    width: 200px;
+    background-color: rgba(128, 128, 128, 0.137);
+    border: 1px solid gray;
+    text-align: center;
+    margin-left: 30px;
+}
+
+#message {
+    margin-left: 30px;
+    color: teal;
+}
+
+button {
+    height: 40px;
+    width: 150px;
+    background-color: darkcyan;
+    text-align: center;
+    color: white;
+    border: none;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 2px;
+}
